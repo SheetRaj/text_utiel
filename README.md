@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: https://642967d3a714797292aeeef6--text-utils0.netlify.app/
+You can run to check web-app: https://642967d3a714797292aeeef6--text-utils0.netlify.app/
 
 ### `npm start`
 
